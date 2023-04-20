@@ -1,6 +1,4 @@
-### Hi there,
-
-5+ years of experience in designing and developing scalable and highly available software/applications.  I am always open in working with new tech stack. Following are my current tech stack.
+Experience in designing and developing scalable and highly available software/applications.
 
 Tech Stack:
 
@@ -9,13 +7,9 @@ Tech Stack:
 - Framework: .Net, Angular
 - Database: Sql, PostgreSql
 - Servers: IIS
-- Cloud: VMware
+- Cloud: VMware,AWS,Azure
 - Version Control: Git, TFS
 - Prototyping: JustInMind
 - IDE: VS Code, VS sutdio
 - Agile
-- CI/CD: Jenkins
-
-Soft Skills:
-
-- Problem Solving, TeamWork, Communication 
+- CI/CD: Jenkins,Github
