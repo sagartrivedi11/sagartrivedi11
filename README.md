@@ -1,4 +1,4 @@
-Experience in designing and developing scalable and highly available software/applications.
+Experience in designing and developing software/applications.
 
 Tech Stack:
 
